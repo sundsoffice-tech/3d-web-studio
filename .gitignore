@@ -1,0 +1,12 @@
+node_modules/
+dist/
+*.local
+.env
+.env.*
+.DS_Store
+*.log
+
+# Claude Code local files
+.claude/settings.local.json
+CLAUDE.local.md
+.claude/agent-memory-local/
